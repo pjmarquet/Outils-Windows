@@ -1,0 +1,35 @@
+Outils de Maintenance et Sécurité pour Windows Version 2025
+
+Adwcleaner Supprime logiciels espions et pubs 
+
+Ccleaner Outils de nettoyage Windows
+Décocher : Options Surveillance, MaJ …→
+
+Clamwin Anti-virus léger, gratuit et sans pub
+Config : Mettre en quarantaine Pour les scan’s veille = jamais→
+
+Libre Office Suite bureautique : Writer, Calc, Impress ...
+
+Photofiltre Retouche d’images et de photos
+Menu : Outils Préférences : Dossiers par défaut = Mes Images + Format par défaut = .jpg
+
+Thunderbird Client de messagerie multi-comptes
+→ OpenSource, gratuit et plus efficace que MS Outlook !
+
+Annoter / signer .pdf → Xournal ++ ou LibreOffice Draw
+
+Mozilla FireFox Navigateur internet
+
+Tester la vitesse du disque dur CrystalDiskInfo
+
+Google Chrome Navigateur internet
+
+Antivirus en ligne + Test si virus sur un site + Test d’un programme avant installation → Virus Total
+
+Assistance à distance → RustDesk ou AnyDesk 
+
+SpyHunter Détection / suppr. de logiciels malveillants
+
+Document offert suite à l’intervention de Pierre-Jean MARQUET
+1ere Page - 06.14.87.57.50 - contact@1ere-page.fr
+Merci de me laisser un Avis Google ou un avis Pages Jaunes
